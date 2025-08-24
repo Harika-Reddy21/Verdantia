@@ -1,0 +1,1 @@
+See .env.example then `python app.py`
